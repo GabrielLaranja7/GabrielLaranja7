@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Word! Me chamo Gabriel 👋
 
 <!--
 **GabrielLaranja7/GabrielLaranja7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
